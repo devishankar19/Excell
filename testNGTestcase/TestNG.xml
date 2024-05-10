@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+	<parameter name="sp"  value="prashan"/>
+	<parameter name="ps"  value="psps"/>
+    <classes>
+      <class name="testNGTestcase.ParameterValue"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
